@@ -1,5 +1,5 @@
 package appshellosays
 
 func Sayhello() string {
-	return "Hello Modules I will Created Apps Modules"
+	return "Horeee You can do connect with module in dependency"
 }
